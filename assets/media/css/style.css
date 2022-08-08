@@ -524,8 +524,6 @@ header label {
     -o-transition: all ease 0.4s;
     transition: all ease 0.4s;
     cursor: pointer;
-    width: 128px;
-    height: 128px;
 }
 
 .intro .avatar img:hover {
@@ -1530,4 +1528,9 @@ a.toc-link {
 
 .navbar .container{
     font-size: 14px !important;
+}
+
+.intro .avatar img {
+    width: 128px;
+    height: 128px;
 }
