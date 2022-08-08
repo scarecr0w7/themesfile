@@ -524,6 +524,8 @@ header label {
     -o-transition: all ease 0.4s;
     transition: all ease 0.4s;
     cursor: pointer;
+    width: 128px;
+    height: 128px;
 }
 
 .intro .avatar img:hover {
@@ -534,11 +536,6 @@ header label {
     -o-transform: translateY(-0.75em);
     transform: translateY(-0.75em);
     cursor: pointer;
-}
-
-.intro .avatar img {
-  width: 128px;
-  height: 128px;
 }
 
 .nickname {
