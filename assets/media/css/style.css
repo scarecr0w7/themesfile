@@ -536,6 +536,11 @@ header label {
     cursor: pointer;
 }
 
+.intro .avatar img {
+  width: 128px;
+  height: 128px;
+}
+
 .nickname {
     font-size: 2em;
     font-weight: normal;
